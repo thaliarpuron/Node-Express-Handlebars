@@ -1,0 +1,36 @@
+body {
+    background-color: goldenrod;
+}
+
+.eat-da-burger,
+.add,
+ul,
+.burgerimg,
+.form-group {
+    margin-top: 20px;
+}
+
+.buttons {
+    height: 40px;
+    border-radius: 0.5rem;
+}
+
+#newburger {
+    height: 40px;
+    border-radius: 0.5rem;
+    background-color: lightgray;
+}
+
+p {
+    font-weight: bold;
+    font-size: large;
+}
+
+.my-burgers,
+.devored-burgers {
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
